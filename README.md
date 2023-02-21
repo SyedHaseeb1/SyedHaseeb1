@@ -64,6 +64,6 @@ If you're interested in collaborating on a project or just want to connect, feel
 
 | **Email**                                             | **LinkedIn**                                                     | **GitHub**                                           |
 |-------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------|
-| [This One](mailto:haseebumerzai@gmail.com) | [Maybe This One](https://www.linkedin.com/in/syedhaseeb1/) | [Definitly This One](https://github.com/syedhaseeb1) |
+| [This One](mailto:haseebumerzai@gmail.com) | [Maybe This One](https://www.linkedin.com/in/syedhaseeb1/) | [Definitely This One](https://github.com/syedhaseeb1) |
 
 </div>
