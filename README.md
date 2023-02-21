@@ -22,9 +22,8 @@ Here are some of the notable projects that I've worked on:
 
 | Project | Description |
 |---------|-------------|
-| [Project 1](https://github.com/yourusername/project1) | A brief description of the project. |
-| [Project 2](https://github.com/yourusername/project2) | A brief description of the project. |
-| [Project 3](https://github.com/yourusername/project3) | A brief description of the project. |
+| [Project 1](https://syedhaseeb1.github.io) | My Portfolio. |
+| [Project 2](https://syedhaseeb1.github.io/mydiary.github.io/) | Just wandering around. |
 
 </div>
 
@@ -65,6 +64,6 @@ If you're interested in collaborating on a project or just want to connect, feel
 
 | **Email**                                             | **LinkedIn**                                                     | **GitHub**                                           |
 |-------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------|
-| [This One](mailto:haseebumerzai@gmail.com) | [This Profile](https://www.linkedin.com/in/syedhaseeb.1/) | [Not this](https://github.com/syedhaseeb1) |
+| [This One](mailto:haseebumerzai@gmail.com) | [Maybe This One](https://www.linkedin.com/in/syedhaseeb1/) | [Definitly This One](https://github.com/syedhaseeb1) |
 
 </div>
