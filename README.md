@@ -23,7 +23,7 @@ Here are some of the notable projects that I've worked on:
 | Project | Description |
 |---------|-------------|
 | [Project 1](https://syedhaseeb1.github.io) | My Portfolio. |
-| [Project 2](https://syedhaseeb1.github.io/mydiary.github.io/) | Just wandering around. |
+| [Project 2](https://syedhaseeb1.github.io/kabootarbot) | Just wandering around. |
 
 </div>
 
