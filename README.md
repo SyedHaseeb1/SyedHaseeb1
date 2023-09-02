@@ -2,7 +2,7 @@
 
 # Hi there, I'm Syed Haseeb 👋
 
-I'm an Android developer with over 3 years of experience, specializing in AI and general tools development. I started as a Java developer and later transitioned to Kotlin, which is now my go-to language for Android app development. In addition to Android development, I also have experience in web development, Flutter, and desktop app development for Windows and Linux.
+I'm a Software Engineer/developer specializing in AI and general tools development. I started as a Java developer and later transitioned to Asp.Net, C# and many more, with that I am using Kotlin for Android app development. In addition to my Software development, I also have experience in React Js, Flutter, and desktop app development for Windows and Linux.
 
 </div>
 
@@ -23,7 +23,7 @@ Here are some of the notable projects that I've worked on:
 | Project | Description |
 |---------|-------------|
 | [Project 1](https://syedhaseeb1.github.io) | My Portfolio. |
-| [Project 2](https://syedhaseeb1.github.io/kabootarbot) | Just wandering around. |
+| [Project 2](https://syedhaseeb1.github.io/mydiary) | My Diary. |
 
 </div>
 
@@ -43,12 +43,13 @@ Here are some of the tools and technologies that I'm familiar with:
 
 | **Languages** | **Tools and Technologies** | **Methodologies** |
 |---------------|----------------------------|--------------------|
+| C#            | Visual Studio              | ASP.NET            |
 | Java          | Android Studio             | Agile              |
 | Kotlin        | Git                        | Scrum              |
 | HTML/CSS/JS   | Firebase                   | MVVM               |
 | Dart          | REST APIs                  |                    |
-| Python        | TensorFlow                |                    |
-| C#            | OpenCV                     |                    |
+| Python        | TensorFlow                 |                    |
+| C++           | OpenCV                     |                    |
 
 </div>
 
