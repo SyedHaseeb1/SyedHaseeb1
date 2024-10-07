@@ -42,7 +42,7 @@ Here are some of the tools and technologies that I'm familiar with:
 
 | **Languages** | **Tools and Technologies** | **Methodologies** |
 |---------------|----------------------------|--------------------|
-| Kotli         | Visual Studio              | ASP.NET            |
+| Kotlin        | Visual Studio              | ASP.NET            |
 | Java          | Android Studio             | Agile              |
 | C#            | Git                        | Scrum              |
 | HTML/CSS/JS   | Firebase                   | MVVM               |
